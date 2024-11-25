@@ -1,8 +1,8 @@
 # 數位IC前段考題
 這是集結各前輩分享後整理得面試考題
 reference
-https://www.dcard.tw/f/tech_job/p/238023076
-https://www.dcard.tw/f/tech_job/p/240953224
+1. https://www.dcard.tw/f/tech_job/p/238023076
+2. https://www.dcard.tw/f/tech_job/p/240953224
 ## <font color=blue> 觀念題</font>
 ### 1. glitch
 ```
