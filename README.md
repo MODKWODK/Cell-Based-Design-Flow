@@ -1,2 +1,3 @@
 # Cell-Based-Design-Flow
-About the cell-based design flow and its information.
+這裡記錄了我整理的關於數位ic design 的相關知識
+內容包含了網路資源
