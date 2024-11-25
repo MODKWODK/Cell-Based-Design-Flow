@@ -3,6 +3,9 @@
 reference
 1. https://www.dcard.tw/f/tech_job/p/238023076
 2. https://www.dcard.tw/f/tech_job/p/240953224
+
+HACK.MD
+https://hackmd.io/BbfWOcJPTdukkzthwx5sPQ
 ## <font color=blue> 觀念題</font>
 ### 1. glitch
 ```
